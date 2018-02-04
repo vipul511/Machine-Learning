@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb  3 17:31:21 2018
-
 @author: VIPUL
 """
 
